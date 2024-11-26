@@ -1,0 +1,16 @@
+{
+  "name": "crypto_trade_schedular",
+  "version": "1.0.0",
+  "description": "This is an crypto purchase schedular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Crypto",
+    "BTC",
+    "trade"
+  ],
+  "author": "Dervis Onur Gurbuz",
+  "license": "ISC"
+}
