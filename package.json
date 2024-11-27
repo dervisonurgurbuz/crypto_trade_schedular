@@ -12,5 +12,10 @@
     "trade"
   ],
   "author": "Dervis Onur Gurbuz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@binance/connector": "^3.5.0",
+    "axios": "^1.7.8",
+    "fs": "^0.0.1-security"
+  }
 }
